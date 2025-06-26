@@ -6,8 +6,8 @@ body {
     display: inline-grid;
 	grid-template-rows: 40% 20% 10% 10% 10%;
 	grid-template-columns: 40% 20% 40%;
-	width: 100vmax;
-	height: 100vmin;
+	width: 100vmin;
+	height: 100vmax;
 }
 
 .line {
