@@ -6,7 +6,7 @@ body {
     display: inline-grid;
 	grid-template-rows: 40% 20% 10% 10% 10%;
 	grid-template-columns: 40% 20% 40%;
-	width: fit-content;
+	width: 100%;
 	height: fit-content;
 }
 
