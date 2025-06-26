@@ -91,3 +91,7 @@ body {
     grid-row: 5;
     justify-content: space-around;
 }
+
+p {
+    padding-left: 20px;
+}
