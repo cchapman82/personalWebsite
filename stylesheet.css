@@ -1,8 +1,5 @@
 body {
     background-image: linear-gradient(rgb(214, 183, 69) 5%, #FFFFFF 50%); 
-    width: 100vwmax;
-    height: 100vwmax;
-    background-repeat: no-repeat;
 }
 .indexBody {
     display: inline-grid;
