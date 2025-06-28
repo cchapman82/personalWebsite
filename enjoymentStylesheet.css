@@ -3,6 +3,8 @@ body {
     background-size: cover;
     background-position: center;
     color: antiquewhite;
+    text-align: center;
+    align-items: center;
 }
 
 #nav-item {
