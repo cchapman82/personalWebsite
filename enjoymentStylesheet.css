@@ -5,6 +5,10 @@ body {
     color: antiquewhite;
 }
 
+#nav-item {
+    color: blue;
+}
+
 h1 {
     text-align: center;
 }
