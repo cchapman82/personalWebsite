@@ -8,3 +8,24 @@ body {
 h1 {
     text-align: center;
 }
+#vert {
+    padding: 10px;
+    height: 200px;
+    width: 150px;
+}
+#square {
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+}
+#rect {
+    padding: 10px;
+    height: 200px;
+    width: 275px;
+}
+
+#plant {
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+}
